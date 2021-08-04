@@ -30,3 +30,9 @@
 -	[NIST Special Publication 800-190- Application Container Security Guide](docs/container/NIST.SP.800-190.pdf)
 
 -	[Containers: Security Challenges and How to Address Them](docs/security/DevOps.com-Container_Security_Challenges.pdf)
+
+##	Nginx + TLS Certificate (Reverse Proxy)
+
+-	[How To Configure Nginx as a Web Server and Reverse Proxy for Apache on One Ubuntu 18.04 Server](https://www.digitalocean.com/community/tutorials/how-to-configure-nginx-as-a-web-server-and-reverse-proxy-for-apache-on-one-ubuntu-18-04-server)
+
+-	[Maximizing Python Performance with NGINX, Part 1: Web Serving and Caching](https://www.nginx.com/blog/maximizing-python-performance-with-nginx-parti-web-serving-and-caching/)
