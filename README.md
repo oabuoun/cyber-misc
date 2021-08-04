@@ -18,3 +18,15 @@
 -	[Threat Modeling w/ PASTA - Risk Centric Threat Modeling Case Studies](docs/threat_modelling/Threat-Modeling-with-PASTA.pdf)
 
 -	[Real World Threat Modeling Using the PASTA Methodology](docs/threat_modelling/AppSecEU2012_PASTA.pdf)
+
+##	TLS/Certificates
+
+-	[TLS Basics](https://www.internetsociety.org/deploy360/tls/basics/)
+
+-	[What is a TLS/SSL certificate, and how does it work?](https://protonmail.com/blog/tls-ssl-certificate/)
+
+##	Container Security
+
+-	[NIST Special Publication 800-190- Application Container Security Guide](docs/container/NIST.SP.800-190.pdf)
+
+-	[Containers: Security Challenges and How to Address Them](docs/security/DevOps.com-Container_Security_Challenges.pdf)
