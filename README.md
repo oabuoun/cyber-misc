@@ -97,3 +97,14 @@ https://learn.hashicorp.com/tutorials/terraform/secrets-vault
 https://jryancanty.medium.com/hashicorp-vault-and-terraform-on-google-cloud-security-best-practices-3d94de86a3e9
 
 https://registry.terraform.io/providers/hashicorp/vault/latest/docs
+
+
+##	GDPR
+
+-	[GDPR Tutorial](docs/gdpr/skillcast-gdpr-training-presentation-q320.pptx)
+
+##	ISO 27001
+
+-	[ISO 27001 Introduction](https://www.varonis.com/blog/iso-27001-compliance/)
+
+-	[ISO 27001 Tutorial](docs/iso27001/_fundamentals_isms_intro_27001.ppt)
